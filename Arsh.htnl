@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <title>MY PROFILE</title>
+
+    <style>
+
+    .Background{
+
+    				background-image:url(images.jpeg);
+
+    				background-attachment:fixed;
+
+    				background-size:cover;
+
+    				}
+
+    table,th,td{
+
+    				border:2px solid #dddddddd;
+
+    				border-collapse:collapse;
+
+    				padding:4px;
+
+    				margin:2px
+
+    				}
+
+    				.Endscreen{
+
+    								background-color:#90EE90;
+
+    								}
+
+    				td{
+
+    								text-align:center;
+
+    								text-style:bold;
+
+    								}
+
+    tr:nth-child(even){
+
+    				background-color:#dddddddd
+
+    				}
+
+  		ul{
+
+    								list-style-type:none;
+
+    								padding:2px;
+
+    								margin:1px;
+
+    								overflow:hidden;
+
+    								background-color:Sky blue;
+
+    								font-size:14px;
+
+    								}
+
+			li{
+
+    									float:right;
+
+    									}	
+
+  	li a{
+
+    						display:block;
+
+    							color:white;
+
+    							text-align:center;
+
+    							padding:26px;
+
+    							text-decoration:none;
+
+    								}		
+
+    </style>
+
+</head>
+
+<body style="background-color:#FFFFF3D1">
+
+<div class="Background">
+
+<ul>
+
+<li><a href="#Contact"></a>Contact</li>
+
+<li><a href="#About"></a>About</li>
+
+<li><a href="#Home"></a>Home</li>
+
+</ul>
+
+<img src="IMG-20190219-WA0093.jpg" alt="Arshpreet Singh" style="border-radius:150%"; height="100" width="75" style="float:left">
+
+  <h2 style="text-align:center;color:solid powdered green;font-family:cursive; font-size:55px">I'm Arsh</h2>
+
+  <h3 style="text-align:center;color:solid powdered green;font-family:cursive;">a web designer</h3>
+
+<p style="text-align:center">
+
+<img src="IMG-20190219-WA0093.jpg" alt="Arshpreet Singh" style="border-radius:150%"; height="200" width="150">
+
+</p>  
+
+ <p style="text-align:center;color: solid powdered green;font-size:49px;font-family:cursive" id="Home">Hi</p> 
+
+<p style="text-align:center;color: solid powdered green;font-size:26px;font-family:cursive">I am a web designer from Punjab,India. I love to do Programing and learn new languages.</p>
+
+</div>
+
+<p style="color:solid powdered green; text-align:center;font-size:32px">What I can do.</p>
+
+<p style="text-align:center; font-family:cursive">I like to keep it simple. My goals are to focus on typography, content and conveying the message that you want to send.</p>
+
+<p id="About" style="text-align:center;color:solid powderd green; font-size:32px">About</p>
+
+<p style="text-align:center; font-family:cursive">I am a student of Punjabi University,Patiala. I studied my 10th and +2 from Guru Nanak. Foundation Public School,Patiala.</p>
+
+<p id="Contact" style="text-align:center;color:solid powderd green; font-size:32px">Contact</p>
+
+<p style="text-align:center; font-family:cursive"> You can contact me on following links</p>
+
+<div class="Endscreen">
+
+<hr>
+
+<p style="text-align:center"><a href="https://www.instagram.com/singh_arsh3001/" target="_blank"><img src="unnamed.jpg" height="20" width="20"></a> <a href="https://m.youtube.com/channel/UCbHECfpa7Fi6JFr6zssGCbw" target="_blank"><img src="images.jpg" height="15" width="15"></a> <a href="mailto:apskhalsa02@gmail.com"><img src="Aaa.jpg" height="15" width="15"></a></p>
+
+<p style="text-align:center;font-family:cursive;color: dark green">KEEP SUPPORTING</p>
+
+</div>
+
+</body>
+
+</html>
